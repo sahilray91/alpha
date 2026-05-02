@@ -1,2 +1,2 @@
 # alpha
-this this the demo or can say a practice to the start a github
+This the demo & can say a practice to the start a github.
